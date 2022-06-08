@@ -24,10 +24,10 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "• قناة البوت •", url=f"https://t.me/VFF35"
+                        "• قناة البوت •", url=f"https://t.me/VPVPU"
                     ),
                     InlineKeyboardButton(
-                        "• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "• قروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
